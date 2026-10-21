@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-123-multisigmodule-is-never-imported-into-appmodule",
+    "fix/issue-125-get-health-omits-the-database-indicator-reports",
+    "main",
+    "origin",
+    "test/124-guard-module-layout"
+  ],
+  "parent": {
+    "feat/issue-123-multisigmodule-is-never-imported-into-appmodule": "main",
+    "fix/issue-125-get-health-omits-the-database-indicator-reports": "main",
+    "main": null,
+    "origin": "main",
+    "test/124-guard-module-layout": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-123-multisigmodule-is-never-imported-into-appmodule",
+    "fix/issue-125-get-health-omits-the-database-indicator-reports",
+    "origin",
+    "test/124-guard-module-layout"
+  ]
+}
